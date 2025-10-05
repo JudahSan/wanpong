@@ -10,7 +10,7 @@ config_version=5
 
 [application]
 
-config/name="Moddable Pong"
+config/name="GodoPong"
 config/version="$Format:%(describe:tags)$"
 run/main_scene="uid://i46s5rgxdxuh"
 config/features=PackedStringArray("4.4", "GL Compatibility")
