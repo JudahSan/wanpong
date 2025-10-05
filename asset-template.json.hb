@@ -1,5 +1,5 @@
 {
-  "title": "GodoPong",
+  "title": "WanPong",
   "description": "This mini moddable game project forked from Endless OS Foundation.",
   "category_id": "9",
   "godot_version": "4.4",
